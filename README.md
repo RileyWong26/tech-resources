@@ -6,6 +6,7 @@ This repo serves as a place where I save links I found important and hope can he
 - [Learn AI/ML](#learn-aiml)
 - [Opensource](#opensource)
 - [Interviews](#interviews)
+- [Misc](#misc)
 
 ## Internships
 | Name | Link | Description |
@@ -27,4 +28,10 @@ This repo serves as a place where I save links I found important and hope can he
 | Name | Link | Description |
 | ----------- | ----------- | ------|
 | Common Behavioural | [Link](https://docs.google.com/document/d/1iVG6t9FOvT6gOjiAN2R8KeuaNJxWqd5khs0EYVKEdCM/edit?usp=sharing) | List of Common Behavioral Questions to help prepare for interviews. |
+
+## Misc
+| Name | Link | Description |
+| ----------- | ----------- | ------|
+| Tech Stack Icons | [Link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme) | Demonstrates technology icons, ideal for showcasing a tech stack. |
+
 
