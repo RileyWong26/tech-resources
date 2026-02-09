@@ -11,8 +11,11 @@ This repo serves as a place where I save links I found important and hope can he
 ## Internships
 | Name | Link | Description |
 | ----------- | ----------- | ------|
-| Summer Tech Internships 2026 | [Link](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file) | Good list of tech internships, Canada and US.  Updated frequently.  Sorted by catagories. |
+| Resume Template| [Link](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) | A solid tech resume template, it is able to be parsed really well and is formatted very well.|
+| Summer Tech Internships 2026 | [Link](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file) | Good list of tech internships, Canada and US.  Updated frequently.  Sorted by catagories. 
 | Canadian Tech Internships 2026 | [Link](https://github.com/negarprh/Canadian-Tech-Internships-2026?tab=readme-ov-file) | It has a good amount of opportunities based in Canada, updated a little infrequently. |
+| Hiring Cafe | [Link](https://hiring.cafe/) | A job board that displays real jobs. It also features good search and filter tools to find what you are looking for. It also displays non-internship opportunities.|
+
 
 ## Learn AI/ML 
 | Name | Link | Description |
